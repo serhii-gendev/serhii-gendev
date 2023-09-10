@@ -1,0 +1,21 @@
+{
+  "name": "devlife",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "intex.html",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
+  },
+  "keywords": [
+    "fulldev410"
+  ],
+  "author": "fulldev410",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fulldev410/fulldev410/issues"
+  }
+}
