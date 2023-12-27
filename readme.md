@@ -76,7 +76,7 @@ From childhood, I dreamed about becoming a software engineer. I was always fasci
 
 ## 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitsem&layout=compact&theme=algolia&column=4" alt="Cozy guy" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serhii-gendev&layout=compact&theme=algolia&column=4" alt="Cozy guy" /></a>
 
 <hr>
 
